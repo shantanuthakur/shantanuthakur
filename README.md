@@ -14,39 +14,17 @@
 
 ## 👨‍💻 About Me  
 - 🎓 Aspiring **Machine Learning Engineer**  
-- 🤖 Specializing in **Computer Vision, YOLO, Deep Learning**  
+- 🤖 Interested in **Computer Vision, YOLO, Deep Learning**  
 - 🚀 Passionate about building real-time AI systems  
-- 🔍 Skilled in **Python, ML, APIs, Visualization**  
 - 🌐 Based in **Roorkee, India**  
 
 ---
 
-# 🛠 Skills
+# 🛠 Skills  
 
-## ✅ Programming Languages  
+## ✅ Languages  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,sql" />
-</p>
-
-## ✅ Machine Learning & AI  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Scikit_learn_logo_small.svg" width="50">
-  <img src="https://numpy.org/images/logo.svg" width="50">
-  <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="50">
-  <img src="https://opencv.org/wp-content/uploads/2020/07/cropped-OpenCV_logo_white_600x.png" width="50">
-</p>
-
-## ✅ Visualization  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=powerbi" />
-  <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png" width="50">
-  <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" width="50">
-</p>
-
-## ✅ Web & Deployment  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flask,streamlit,html,css" />
 </p>
 
 ## ✅ Tools  
@@ -59,7 +37,6 @@
 # 🎓 Education  
 **B.Tech — CSE (Data Science)**  
 Quantum University, Roorkee  
-CGPA: **7.35 / 10**
 
 ---
 
