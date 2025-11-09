@@ -37,29 +37,6 @@ Currently contributing to **Yoga Pose Detection research** at Quantum University
 
 ---
 
-## 💼 Professional Experience
-
-### **Machine Learning Engineer Intern — Inonetecx Inc. (Toronto, Canada)**  
-📅 Dec 2024 – Mar 2025 | Remote  
-
-- Built & optimized ML models → **+15% prediction accuracy**  
-- Conducted EDA → **identified anomalies improving process efficiency by 15%**  
-- Deployed ML models using **REST APIs** for real-time inference  
-- Built **Streamlit dashboards** for monitoring  
-- Collaborated using Git & GitHub workflows  
-
----
-
-### **Data Analyst Intern — Codtech IT Solutions (Gurgaon, India)**  
-📅 Jul 2024 – Sep 2024 | Remote  
-
-- Sales analytics + forecasting using Python & SQL  
-- Built visual reports with Pandas & Matplotlib  
-- Extracted insights from MySQL databases  
-- Delivered weekly analytical summaries  
-
----
-
 ## 🎓 Education  
 **B.Tech — Computer Science & Engineering (Data Science)**  
 Quantum University, Roorkee (2022–Present)  
