@@ -1,31 +1,29 @@
-# Hi, I'm Shantanu 👋  
-### Aspiring Machine Learning Engineer | Computer Vision | Deep Learning | YOLO | OpenCV
-
----
-
-## 🚀 About Me  
-Aspiring **Machine Learning Engineer** with hands-on experience in real-time computer vision, ML model training, model deployment, and data analytics.  
-Currently contributing to **Yoga Pose Detection research** at Quantum University and building production-ready ML systems.
-
----
-
-## 🔗 Connect With Me  
-- **LinkedIn:** https://www.linkedin.com/in/shantanu-chauhan  
-- **GitHub:** https://github.com/shantanuthakur  
-- **Email:** learnwithshantanu19@gmail.com  
-
----
-
-# 🧑‍💻 Tech Stack  
-
-## ✅ Languages  
-<p>
-  <img src="https://skillicons.dev/icons?i=python,sql,c,cpp,html,css" />
+<!-- Modern Animated Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Shantanu+👋;Machine+Learning+Engineer;Computer+Vision+%7C+Deep+Learning+Developer;AI+Enthusiast" />
 </p>
 
 ---
 
-## ✅ Machine Learning & AI  
+# 🌟 About Me  
+I’m an **Aspiring Machine Learning Engineer** specializing in  
+✅ Real-time Computer Vision  
+✅ YOLO-based Detection Systems  
+✅ Machine Learning Pipelines  
+✅ AI-powered Applications  
+
+Passionate about building intelligent, production-ready systems that make an impact.
+
+---
+
+# 🚀 Tech Stack  
+
+## 🧑‍💻 Programming Languages  
+<p>
+  <img src="https://skillicons.dev/icons?i=python,sql" />
+</p>
+
+## 🤖 Machine Learning & Data Science  
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Scikit_learn_logo_small.svg" width="45" />
@@ -34,95 +32,85 @@ Currently contributing to **Yoga Pose Detection research** at Quantum University
   <img src="https://opencv.org/wp-content/uploads/2020/07/cropped-OpenCV_logo_white_600x.png" width="45" />
 </p>
 
----
-
-## ✅ Tools & Platforms  
+## 📊 Data Visualization  
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,pycharm,postman" />
+  <img src="https://skillicons.dev/icons?i=powerbi" />  
+  <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png" width="45" />
+  <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" width="45" />
+</p>
+
+## 🌐 Web & Deployment  
+<p>
+  <img src="https://skillicons.dev/icons?i=flask,html,css,streamlit" />
+</p>
+
+## 🛠 Tools  
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,jupyter" />
 </p>
 
 ---
 
-## ✅ Deployment & Cloud  
-<p>
-  <img src="https://skillicons.dev/icons?i=flask,streamlit,aws,gcp" />
-</p>
-
----
-
-# 💼 Professional Experience
+# 💼 Experience
 
 ### **Machine Learning Engineer Intern — Inonetecx Inc. (Toronto, Canada)**  
-📅 Dec 2024 – Mar 2025 | Remote  
-- Optimized ML models → **+15% accuracy improvement**  
-- Conducted EDA → **15% process efficiency boost**  
-- Built & deployed **REST API ML models**  
-- Developed **Streamlit dashboards** for analytics  
+📅 Dec 2024 – Mar 2025 (Remote)  
+- Developed ML models using Scikit-learn & TensorFlow  
+- Conducted EDA for anomaly detection  
+- Created REST API-based deployment pipelines  
+- Designed Streamlit dashboards for monitoring  
 - Collaborated using Git & GitHub  
 
 ---
 
 ### **Data Analyst Intern — Codtech IT Solutions (Gurgaon, India)**  
-📅 Jul 2024 – Sep 2024 | Remote  
-- Sales analytics & forecasting using SQL + Python  
-- Built visual reports (Pandas, Matplotlib)  
-- Worked with MySQL databases  
-- Delivered weekly data insights  
+📅 Jul 2024 – Sep 2024 (Remote)  
+- Analyzed sales datasets with Python & SQL  
+- Built analytical visualizations  
+- Automated reporting pipelines  
+- Provided weekly insights to stakeholders  
 
 ---
 
 # 🎓 Education  
-**B.Tech — CSE (Data Science)**  
-Quantum University, Roorkee (2022–Present)  
-**CGPA:** 7.25 / 10  
+**B.Tech in Computer Science & Engineering (Data Science)**  
+Quantum University, Roorkee  
+📊 CGPA: **7.25 / 10**
 
 ---
 
-# 🧠 Featured Projects
+# 📈 GitHub Analytics (Animated)
 
-### ✅ **1. AI-Based Yoga Pose Recognition System (YOLOv10 + MediaPipe)**  
-- Real-time yoga pose classification  
-- YOLOv10 Nano + MediaPipe landmarks  
-- **89.8% mAP**  
-- Research paper under review  
-🔗 Repo: https://github.com/shantanuthakur/yoga_pose_detection_system  
+<div align="center">
 
----
+<!-- GitHub Streak -->
+<img width="49%" src="https://streak-stats.demolab.com?user=shantanuthakur&theme=radical&hide_border=true" />
 
-### ✅ **2. Food Item Detection + Calorie Estimator (YOLOv8 + GPT API)**  
-- Smart food detection + nutritional estimation  
-- Dataset: **100 Indian food classes**  
-- YOLOv8 for detection + GPT API for nutrition text  
-🔗 Repo: (Coming soon)  
+<!-- Animated Stats -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shantanuthakur&show_icons=true&theme=radical&hide_border=true" />
+
+<!-- Animated Languages -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shantanuthakur&layout=compact&theme=radical&hide_border=true" />
+
+</div>
 
 ---
 
-### ✅ **3. Sign Language Gesture Recognition (YOLOv8)**  
-- Detects Hello, Yes, No, Please, Thank You  
-- **94.56% accuracy**  
-- Real-time webcam detection  
-🔗 Repo: https://github.com/shantanuthakur/real-time-sign-language-recognition  
-
----
-
-# 📄 Certifications  
-- Google DSC — Generative AI Study Gems  
-- ML A-Z (Udemy)  
-- Python Bootcamp (Udemy)  
-- Flask Bootcamp (Udemy)  
-- Forage — Deloitte Data Analytics  
-- LinkedIn Learning — Data Analytics Basics  
-
----
-
-# 📊 GitHub Stats  
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shantanuthakur&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shantanuthakur&layout=compact&theme=radical" />
+# 🌈 Fun Animated Section  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-# ✅ Let's Build Something Great 🚀  
-Open to collaborations in **Machine Learning, Computer Vision, and Deep Learning Research**.
+# 🔗 Connect With Me  
+<p align="left">
+  <a href="https://www.linkedin.com/in/shantanu-chauhan"><img height="40" src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:learnwithshantanu19@gmail.com"><img height="40" src="https://img.icons8.com/?size=512&id=12580&format=png" /></a>
+  <a href="https://github.com/shantanuthakur"><img height="40" src="https://skillicons.dev/icons?i=github" /></a>
+</p>
+
+---
+
+# ✅ Let’s Build Something Amazing 🚀  
+Open to collaboration in **Machine Learning, Deep Learning, and Computer Vision**.
