@@ -1,41 +1,66 @@
-[![Matrix SVG](https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif)](https://github.com/shantanuthakur)
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-<h1 align="center">Hi 👋, I'm Shantanu</h1>
-<h3 align="center">Aspiring Machine Learning Engineer | Computer Vision | Deep Learning | YOLO</h3>
-
-## 📊 GitHub Stats:
 <div align="center">
-  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shantanuthakur&theme=radical">
-  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shantanuthakur&theme=radical">
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shantanuthakur&theme=radical">
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shantanuthakur&theme=radical">
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shantanuthakur&theme=radical&utcOffset=5.5">
+  <img src="https://i.pinimg.com/originals/f3/12/32/f31232a90d8a7c29214732d84789c095.gif" width="100%" alt="Pixel Art Setup" />
+  </div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39FF14&background=00000000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Shantanu+Thakur+👋;Aspiring+ML+Engineer;Computer+Vision+%7C+Deep+Learning;YOLO+%7C+OpenCV+%7C+TensorFlow" alt="Typing SVG" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<div align="center">
+  <a href="https://www.linkedin.com/in/shantanu-chauhan">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/shantanuthakur">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:learnwithshantanu19@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+<br/>
 
-### 🛠 &nbsp;Languages and Tools:
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=yellow)
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow&logoColor=orange)
-![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch&logoColor=red)
-![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv&logoColor=green)
-![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy&logoColor=blue)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat&logo=scikit-learn&logoColor=orange)
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-05122A?style=flat&logo=streamlit&logoColor=red)
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter&logoColor=orange)
-
-<h3 align="left"><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" width="50" height="50">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/shantanu-chauhan"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:learnwithshantanu19@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<h3 align="center">🚀 About Me</h3>
+<p align="center">
+  I am an aspiring <b>Machine Learning Engineer</b> passionate about <b>Computer Vision</b> and <b>Deep Learning</b>. <br/>
+  Currently specializing in real-time object detection (YOLO) and building smart AI applications.
 </p>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100%" alt="Tech Banner" /> 
+  </div>
+
+<h3 align="center">🛠 Tech Stack</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+</div>
+
+<br/>
+
+<h3 align="center">📊 GitHub Analytics</h3>
+<div align="center">
+  <a href="https://github.com/shantanuthakur">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=shantanuthakur&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shantanuthakur&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  </a>
+</div>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shantanuthakur&theme=tokyonight&utcOffset=5.5" height="150em" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
