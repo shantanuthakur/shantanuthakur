@@ -14,7 +14,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-<img src="https://i.pinimg.com/originals/52/a2/12/52a212ad7f7480e60898516d29d4791f.gif" width="100%" />
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
 ### 🛠 &nbsp;Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=yellow)
