@@ -1,5 +1,5 @@
 <a href="https://github.com/shantanuthakur">
-  <img src="[https://share.google/lFzutu1xYgMQVVOnD](https://i.pinimg.com/originals/0a/b8/ce/0ab8ce6d94dc4bd5183e953ad6ef797d.gif)" alt="Coding gif" width="100%">
+  <img src="[[https://share.google/lFzutu1xYgMQVVOnD](https://i.pinimg.com/originals/0a/b8/ce/0ab8ce6d94dc4bd5183e953ad6ef797d.gif)](https://i.redd.it/n8agw6z2smyb1.gif)" alt="Coding gif" width="100%">
 </a>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
