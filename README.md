@@ -1,4 +1,4 @@
-[![Main GIF](https://i.pinimg.com/originals/0a/b8/ce/0ab8ce6d94dc4bd5183e953ad6ef797d.gif)](https://github.com/shantanuthakur)
+[![Zoro Roronoa GIF](https://i.pinimg.com/originals/23/bf/c5/23bfc5c370b428569b25a5e1da16536e.gif)](https://github.com/shantanuthakur)
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 <h1 align="center">Hi 👋, I'm Shantanu</h1>
 <h3 align="center">Aspiring Machine Learning Engineer | Computer Vision | Deep Learning | YOLO</h3>
