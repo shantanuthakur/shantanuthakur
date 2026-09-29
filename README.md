@@ -4,7 +4,7 @@
   </a>
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
   <h1>Hi 👋, I'm Shantanu</h1>
-  <h3>Aspiring Machine Learning Engineer | Computer Vision | Deep Learning | YOLO</h3>
+  <h3>Machine Learning Engineer | Computer Vision | Deep Learning | Gen AI</h3>
 </div>
 
 ---
